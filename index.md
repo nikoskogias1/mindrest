@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Achtergrond en doel van het onderzoek
+Studenten in een academische setting staan behoorlijk onder druk. Deadlines, tentamens en
+financiële zaken vragen constant de aandacht. Dit leidt ertoe dat een groot deel van de studenten
+stress-gerelateerde klachten ervaren, wat van invloed is op de academische prestaties en de kwaliteit
+van leven. Een manier die de laatste tijd veel aandacht krijgt om met stress-gerelateerde klachten om
+te gaan zijn de op mindfulness-gebaseerde interventies. Eerder onderzoek laat zien dat mindfulness
+kan helpen om angst- en spanningsklachten te voorkomen of te verminderen. Het doel van dit
+onderzoek is om te onderzoeken of de Mindfulness Based Stress Reductie (MBSR) training effectief
+is in het verminderen van stress bij studenten die in hoge mate last hebben van stress-gerelateerde
+klachten. Daarnaast willen we beter begrijpen hoe en voor wie de MBSR werkt, om op deze manier
+stress-gerelateerde klachten bij studenten in de toekomst preventief te kunnen aanpakken en
+behandelen.
 
-You can use the [editor on GitHub](https://github.com/nikoskogias1/mindrest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nikoskogias1/mindrest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#Wie kan er deelnemen?
+U kunt deelnemen aan dit onderzoek wanneer u voldoet aan onderstaande criteria:
+- U bent student bij de Radboud Universiteit, Radboudumc of HAN University of Applied
+Sciences in Arnhem en Nijmegen.
+- U bent 18 jaar of ouder.
+- U beheerst de Nederlandse taal vloeiend.
+- U heeft niet eerder een formele mindfulness training gevolgd, zoals Mindfulness Based Stress
+Reductie (MBSR) of Mindfulness Based Cognitieve Therapie (MBCT).
+- U heeft geen contra-indicaties voor een MRI scan (bijvoorbeeld een pacemaker,
+geïmplementeerd metaal, epilepsie, hersenoperaties of zwangerschap. 
