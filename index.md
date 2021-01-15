@@ -11,7 +11,7 @@ klachten. Daarnaast willen we beter begrijpen hoe en voor wie de MBSR werkt, om 
 stress-gerelateerde klachten bij studenten in de toekomst preventief te kunnen aanpakken en
 behandelen.
 
-#Wie kan er deelnemen?
+# Wie kan er deelnemen?
 U kunt deelnemen aan dit onderzoek wanneer u voldoet aan onderstaande criteria:
 - U bent student bij de Radboud Universiteit, Radboudumc of HAN University of Applied
 Sciences in Arnhem en Nijmegen.
